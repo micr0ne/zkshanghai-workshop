@@ -1,5 +1,5 @@
 # 第4课 课后作业
 
-## 第1题 xxxxxx
+## 第1题 Check out semaphore and set up a starter project!
 
-xxxxxx
+1. 安装环境
